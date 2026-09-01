@@ -1,0 +1,1 @@
+This folder will contain the footprint, symbols, and any external folder that we got from an online source
