@@ -1,1 +1,0 @@
-This folder will contain all of the board's symbols
