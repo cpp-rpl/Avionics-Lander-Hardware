@@ -6,7 +6,7 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 81.28 104.14)
+		(at 72.39 113.03)
 		(size 45.72 33.02)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +22,7 @@
 		)
 		(uuid "0c2b448c-05e7-4ee3-b43b-8b71d124166b")
 		(property "Sheetname" "PT_RELAY"
-			(at 81.28 103.4284 0)
+			(at 72.39 112.3184 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33,7 +33,143 @@
 			)
 		)
 		(property "Sheetfile" "PT_RELAY.kicad_sch"
-			(at 81.28 137.7446 0)
+			(at 72.39 146.6346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PT1" output
+			(at 85.09 113.03 90)
+			(uuid "3df6cddb-1fa6-4924-8214-34e4cb7bf960")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PT2" output
+			(at 91.44 113.03 90)
+			(uuid "d11ab3be-6a2d-4b0e-98be-390c7191641d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PT3" output
+			(at 97.79 113.03 90)
+			(uuid "ddc9a78e-46fe-4a9c-abbc-0fde6beae784")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PT4" output
+			(at 104.14 113.03 90)
+			(uuid "c68fbbe9-f55e-478e-96e2-69d84982c750")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PT5" output
+			(at 110.49 113.03 90)
+			(uuid "863e7e22-a351-48e9-b0d6-3a50d4dbb9bd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PT6" output
+			(at 118.11 120.65 0)
+			(uuid "d53293d6-8286-4c2c-933f-6ee127f891c5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PT7" output
+			(at 118.11 127 0)
+			(uuid "0549f2b0-062d-4f77-9912-65dca504b5f5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PT8" output
+			(at 118.11 133.35 0)
+			(uuid "be108638-da58-45b8-a13e-dced76ab17ca")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PT9" output
+			(at 118.11 139.7 0)
+			(uuid "160892da-5029-403d-9b56-64d39abd311a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "FlightComputerBoardV1"
+				(path "/7795ce7a-d456-4fa5-b86a-75a229c2d679"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 130.81 60.96)
+		(size 49.53 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "14d956f7-716b-42d5-9fa4-04d96cf00fea")
+		(property "Sheetname" "MCU"
+			(at 130.81 60.2484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 130.81 95.8346 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -46,7 +182,7 @@
 		(instances
 			(project "FlightComputerBoardV1"
 				(path "/7795ce7a-d456-4fa5-b86a-75a229c2d679"
-					(page "2")
+					(page "3")
 				)
 			)
 		)

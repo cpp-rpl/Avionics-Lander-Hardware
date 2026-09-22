@@ -660,6 +660,10 @@
     [
       "0c2b448c-05e7-4ee3-b43b-8b71d124166b",
       "PT_RELAY"
+    ],
+    [
+      "14d956f7-716b-42d5-9fa4-04d96cf00fea",
+      "MCU"
     ]
   ],
   "text_variables": {},
