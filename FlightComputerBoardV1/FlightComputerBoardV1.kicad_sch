@@ -203,7 +203,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "1c2378d8-0e7d-48db-ad13-8e4cf91ed3fd")
-		(property "Sheetname" "Peripherals"
+		(property "Sheetname" "Peripherals-IMU"
 			(at 48.26 37.3884 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -214,7 +214,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Peripherals.kicad_sch"
+		(property "Sheetfile" "Peripherals-IMU.kicad_sch"
 			(at 48.26 70.4346 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -238,6 +238,26 @@
 		(pin "SDA_I2C_X" bidirectional
 			(at 92.71 52.07 0)
 			(uuid "feebd598-ea14-4871-a0ed-c1501356dfa3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCL_I2C_Y" bidirectional
+			(at 92.71 58.42 0)
+			(uuid "42af2816-b50c-4757-ab39-3f2c4b1907a0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDA_I2C_Y" bidirectional
+			(at 92.71 63.5 0)
+			(uuid "712c5942-9a71-4a6c-b99c-68e3f6cdcf7a")
 			(effects
 				(font
 					(size 1.27 1.27)
