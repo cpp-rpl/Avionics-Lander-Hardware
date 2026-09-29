@@ -319,6 +319,72 @@
 			)
 		)
 	)
+	(sheet
+		(at 199.39 43.18)
+		(size 67.31 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "78d6639c-7a35-41f5-9448-c6f5f489d76f")
+		(property "Sheetname" "GPS"
+			(at 199.39 42.4684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "GPS.kicad_sch"
+			(at 199.39 84.4046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SCL_I2C_GP" bidirectional
+			(at 199.39 53.34 180)
+			(uuid "ef1e1038-d813-4830-a06a-aa52ea414f4e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDA_I2C_GP" bidirectional
+			(at 199.39 55.88 180)
+			(uuid "ba1996d5-1832-4d38-ba64-6fc53b00e45c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "FlightComputerBoardV1"
+				(path "/7795ce7a-d456-4fa5-b86a-75a229c2d679"
+					(page "6")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

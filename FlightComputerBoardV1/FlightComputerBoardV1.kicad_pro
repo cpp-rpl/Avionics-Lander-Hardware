@@ -484,8 +484,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "FlightComputerBoardV1_Footprints"
+    ],
+    "pinned_symbol_libs": [
+      "FlightComputerBoardV1_Symbols"
+    ]
   },
   "meta": {
     "filename": "FlightComputerBoardV1.kicad_pro",
@@ -649,7 +653,7 @@
         "uuid": "7795ce7a-d456-4fa5-b86a-75a229c2d679"
       }
     ],
-    "used_designators": "L1-2,U1-14,Q1-6,C1-46,D1-6,#PWR1-93,J1-15,R1-78",
+    "used_designators": "#PWR1-96,D1-6,L1-2,U1-14,Q1-6,C1-46,R1-78,J1-15,GP1",
     "variants": []
   },
   "sheets": [
@@ -672,6 +676,10 @@
     [
       "1c2378d8-0e7d-48db-ad13-8e4cf91ed3fd",
       "Peripherals-IMU"
+    ],
+    [
+      "78d6639c-7a35-41f5-9448-c6f5f489d76f",
+      "GPS"
     ]
   ],
   "text_variables": {},
