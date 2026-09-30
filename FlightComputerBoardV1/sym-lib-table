@@ -3,4 +3,5 @@
 	(lib (name "PS2811_1_F3_A") (type "KiCad") (uri "${KIPRJMOD}/libraries/PS2811_1_F3_A/KiCADv6/PS2811_1_F3_A.kicad_sym") (options "") (descr ""))
 	(lib (name "LSM6DSOXTR") (type "KiCad") (uri "${KIPRJMOD}/libraries/LSM6DSOXTR/LSM6DSOXTR.kicad_sym") (options "") (descr ""))
 	(lib (name "LIS3MDLTR") (type "KiCad") (uri "${KIPRJMOD}/libraries/LIS3MDLTR/LIS3MDLTR.kicad_sym") (options "") (descr ""))
+	(lib (name "NVMFS6H848NLT1G") (type "KiCad") (uri "${KIPRJMOD}/libraries/NVMFS6H848NLT1G/KiCADv6/2026-09-30_18-42-55.kicad_sym") (options "") (descr ""))
 )
