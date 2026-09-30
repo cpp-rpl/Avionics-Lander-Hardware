@@ -188,8 +188,8 @@
 		)
 	)
 	(sheet
-		(at 48.26 38.1)
-		(size 44.45 31.75)
+		(at 48.26 39.37)
+		(size 44.45 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -204,7 +204,7 @@
 		)
 		(uuid "1c2378d8-0e7d-48db-ad13-8e4cf91ed3fd")
 		(property "Sheetname" "Peripherals-IMU"
-			(at 48.26 37.3884 0)
+			(at 48.26 38.6584 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -215,7 +215,7 @@
 			)
 		)
 		(property "Sheetfile" "Peripherals-IMU.kicad_sch"
-			(at 48.26 70.4346 0)
+			(at 48.26 90.7546 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -226,7 +226,7 @@
 			)
 		)
 		(pin "SCL_I2C_X" bidirectional
-			(at 92.71 46.99 0)
+			(at 92.71 49.53 0)
 			(uuid "8fb44e66-f5bd-4846-b8a9-7e97f2974d5d")
 			(effects
 				(font
@@ -236,7 +236,7 @@
 			)
 		)
 		(pin "SDA_I2C_X" bidirectional
-			(at 92.71 52.07 0)
+			(at 92.71 53.34 0)
 			(uuid "feebd598-ea14-4871-a0ed-c1501356dfa3")
 			(effects
 				(font
@@ -246,7 +246,7 @@
 			)
 		)
 		(pin "SCL_I2C_Y" bidirectional
-			(at 92.71 58.42 0)
+			(at 92.71 60.96 0)
 			(uuid "42af2816-b50c-4757-ab39-3f2c4b1907a0")
 			(effects
 				(font
@@ -256,8 +256,28 @@
 			)
 		)
 		(pin "SDA_I2C_Y" bidirectional
-			(at 92.71 63.5 0)
+			(at 92.71 64.77 0)
 			(uuid "712c5942-9a71-4a6c-b99c-68e3f6cdcf7a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCL_I2C_A" input
+			(at 92.71 72.39 0)
+			(uuid "c10651db-aab0-4918-b424-2cf168779ef0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDA_I2C_A" input
+			(at 92.71 76.2 0)
+			(uuid "2e4b450a-b20b-46d4-b3b4-7beefcac8fac")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -309,6 +329,26 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "I2C0_SCL" bidirectional
+			(at 146.05 138.43 180)
+			(uuid "64e70f81-901b-4ce2-8986-d27aa8dedcfc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I2C0_SDA" bidirectional
+			(at 146.05 134.62 180)
+			(uuid "45e3a9aa-6980-40d9-bd7a-be52425d26ce")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
