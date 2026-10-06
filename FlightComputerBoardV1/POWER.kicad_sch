@@ -2217,6 +2217,349 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "SMBJ26A:SMBJ26A"
+			(body_styles demorgan)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "CR"
+				(at 5.08 4.445 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "SMBJ26A"
+				(at 5.08 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "SMBJSeries_LTF"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+				)
+			)
+			(property "Datasheet" "SMBJ26A"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "SMBJ26A"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "SMBJSeries_LTF SMBJSeries_LTF-M SMBJSeries_LTF-L"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SMBJ26A_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.4798 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 1.905) (xy 3.81 -1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -1.905) (xy 6.35 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 0) (xy 3.81 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 -1.905) (xy 6.35 1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 10.16 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "SMBJ26A_1_2"
+				(polyline
+					(pts
+						(xy -1.905 3.81) (xy 1.905 3.81)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 6.35) (xy -1.905 3.81)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 6.35) (xy 0 7.62)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.175) (xy 0 3.81)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 3.4798)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 6.35) (xy -1.905 6.35)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 3.81) (xy 0 6.35)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 10.16 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Sensor_Energy:INA260"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3930,7 +4273,7 @@
 		(uuid "65a20745-934f-45fb-9794-9a0fcd4f29a3")
 	)
 	(junction
-		(at 60.96 341.63)
+		(at 66.04 341.63)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "695c4fa4-678e-4569-b193-f50c2b54a17f")
@@ -3948,13 +4291,25 @@
 		(uuid "6dea3b4c-7e28-46b2-84bf-53965f2451bc")
 	)
 	(junction
+		(at 66.04 288.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7775f7c5-46e7-4b96-b2ed-e4a5db4f95e0")
+	)
+	(junction
 		(at 63.5 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "779561ed-67bd-4321-9cc6-726b3d0e8934")
 	)
 	(junction
-		(at 62.23 255.27)
+		(at 66.04 374.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7bae432d-8219-4f54-87e5-98af2d4b0ea0")
+	)
+	(junction
+		(at 66.04 255.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7d31ead6-15c7-41fd-b3dd-34e14c65828b")
@@ -4056,6 +4411,12 @@
 		(uuid "b7afbb03-d809-4a2b-8dbc-4921c74f7fa0")
 	)
 	(junction
+		(at 59.69 255.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b80e85af-e4bd-48f0-81ad-0e307f8e05f9")
+	)
+	(junction
 		(at 215.9 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4138,6 +4499,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e752a0c8-cfba-4a07-a7ca-917f4447cbb5")
+	)
+	(junction
+		(at 58.42 341.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eedf0817-65df-42f9-907b-1cdcb3c81422")
 	)
 	(junction
 		(at 144.78 302.26)
@@ -4569,6 +4936,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 288.29) (xy 90.17 288.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32108ade-26b4-4556-a77d-bc9c5dd92aed")
+	)
+	(wire
+		(pts
 			(xy 99.06 147.32) (xy 115.57 147.32)
 		)
 		(stroke
@@ -4626,6 +5003,16 @@
 			(type default)
 		)
 		(uuid "390ee57e-868a-4570-886c-7bb3bfca7aa1")
+	)
+	(wire
+		(pts
+			(xy 59.69 255.27) (xy 59.69 275.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "391a53e9-e972-4508-9ca1-f6bd28f42a76")
 	)
 	(wire
 		(pts
@@ -4899,6 +5286,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 372.11) (xy 58.42 374.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a1f916c-afdf-40d4-9ab7-ad9d5ec9fd92")
+	)
+	(wire
+		(pts
 			(xy 105.41 172.72) (xy 105.41 173.99)
 		)
 		(stroke
@@ -4926,6 +5323,16 @@
 			(type default)
 		)
 		(uuid "5aca5afc-f8df-452d-bf3f-e25f2d4e8b91")
+	)
+	(wire
+		(pts
+			(xy 58.42 341.63) (xy 58.42 361.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b1fa948-fad0-460f-b6e1-e105e210a915")
 	)
 	(wire
 		(pts
@@ -5439,6 +5846,16 @@
 	)
 	(wire
 		(pts
+			(xy 59.69 285.75) (xy 59.69 288.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b808cb0-729b-40ef-bccb-4396d2fee0fd")
+	)
+	(wire
+		(pts
 			(xy 186.69 86.36) (xy 185.42 86.36)
 		)
 		(stroke
@@ -5496,6 +5913,16 @@
 			(type default)
 		)
 		(uuid "9eb26b48-0545-4a9c-89be-58fa6a1a0c46")
+	)
+	(wire
+		(pts
+			(xy 59.69 288.29) (xy 66.04 288.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0760d25-5964-4ef3-a8d8-28b48f5b8d72")
 	)
 	(wire
 		(pts
@@ -5679,16 +6106,6 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 374.65) (xy 88.9 374.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "baffad39-1437-444f-9f8c-b946ebd590cc")
-	)
-	(wire
-		(pts
 			(xy 73.66 241.3) (xy 73.66 243.84)
 		)
 		(stroke
@@ -5749,7 +6166,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 275.59) (xy 62.23 288.29)
+			(xy 66.04 275.59) (xy 66.04 288.29)
 		)
 		(stroke
 			(width 0)
@@ -5999,7 +6416,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 341.63) (xy 60.96 354.33)
+			(xy 66.04 341.63) (xy 66.04 354.33)
 		)
 		(stroke
 			(width 0)
@@ -6099,6 +6516,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 374.65) (xy 66.04 374.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0c475cc-91ff-4bf9-8e25-dc830f9c67c3")
+	)
+	(wire
+		(pts
 			(xy 90.17 281.94) (xy 90.17 288.29)
 		)
 		(stroke
@@ -6109,7 +6536,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 361.95) (xy 60.96 374.65)
+			(xy 66.04 361.95) (xy 66.04 374.65)
 		)
 		(stroke
 			(width 0)
@@ -6319,6 +6746,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 374.65) (xy 88.9 374.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f25421d0-4881-4788-8e2d-aa89a972b87a")
+	)
+	(wire
+		(pts
 			(xy 114.3 243.84) (xy 114.3 246.38)
 		)
 		(stroke
@@ -6396,16 +6833,6 @@
 			(type default)
 		)
 		(uuid "f7598d66-e347-4f32-9a10-3b0cd0a9672e")
-	)
-	(wire
-		(pts
-			(xy 62.23 288.29) (xy 90.17 288.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f766565c-02f5-46bd-9ac8-40558e3e7385")
 	)
 	(wire
 		(pts
@@ -6489,7 +6916,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 255.27) (xy 62.23 267.97)
+			(xy 66.04 255.27) (xy 66.04 267.97)
 		)
 		(stroke
 			(width 0)
@@ -15232,7 +15659,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "47uF"
 			(at 118.11 359.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17086,6 +17513,89 @@
 		)
 	)
 	(symbol
+		(lib_id "SMBJ26A:SMBJ26A")
+		(at 59.69 285.75 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3907b746-6adf-4b09-b0bd-80bb85bb383b")
+		(property "Reference" "CR1"
+			(at 46.736 280.162 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SMBJ26A"
+			(at 46.736 282.702 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "SMBJSeries_LTF"
+			(at 59.69 285.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Datasheet" "SMBJ26A"
+			(at 59.69 285.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 59.69 285.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8c8cc85e-cbcd-4a1f-9c0f-d20d9047bc4d")
+		)
+		(pin "2"
+			(uuid "37f6b150-c918-4a9b-86ba-62af90a78c87")
+		)
+		(instances
+			(project "FlightComputerBoardV1"
+				(path "/7795ce7a-d456-4fa5-b86a-75a229c2d679/3649f41a-e3eb-4228-8a3a-5b23b97352ea"
+					(reference "CR1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:Earth")
 		(at 74.93 95.25 0)
 		(unit 1)
@@ -17538,7 +18048,7 @@
 		(dnp no)
 		(uuid "51c22d73-258b-49e6-b14e-e8cee4f46fa6")
 		(property "Reference" "C48"
-			(at 63.754 360.68 0)
+			(at 66.548 363.982 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17549,7 +18059,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 63.754 362.712 0)
+			(at 66.548 366.014 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18735,6 +19245,89 @@
 		)
 	)
 	(symbol
+		(lib_id "SMBJ26A:SMBJ26A")
+		(at 58.42 372.11 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7d76e140-b8ce-4d71-8f1b-c88ba281266c")
+		(property "Reference" "CR2"
+			(at 45.466 366.522 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "SMBJ26A"
+			(at 45.466 369.062 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "SMBJSeries_LTF"
+			(at 58.42 372.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Datasheet" "SMBJ26A"
+			(at 58.42 372.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 58.42 372.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8b91c046-4e2f-4416-a169-9b455a18c690")
+		)
+		(pin "2"
+			(uuid "8d390cef-fca6-4fa9-b37a-1e9f715a971a")
+		)
+		(instances
+			(project "FlightComputerBoardV1"
+				(path "/7795ce7a-d456-4fa5-b86a-75a229c2d679/3649f41a-e3eb-4228-8a3a-5b23b97352ea"
+					(reference "CR2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 175.26 120.65 0)
 		(unit 1)
@@ -19066,7 +19659,7 @@
 		(dnp no)
 		(uuid "8502885d-4226-4725-ac4b-6c9a64f16be2")
 		(property "Reference" "C53"
-			(at 65.024 274.32 0)
+			(at 67.056 275.082 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19077,7 +19670,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 65.024 276.352 0)
+			(at 66.802 277.368 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19738,7 +20331,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 62.23 271.78 0)
+		(at 66.04 271.78 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19748,7 +20341,7 @@
 		(dnp no)
 		(uuid "9f876893-8996-4da7-93a8-e512ece1860c")
 		(property "Reference" "C52"
-			(at 54.61 270.51 0)
+			(at 60.198 266.446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19758,8 +20351,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 54.61 273.05 0)
+		(property "Value" "22nF"
+			(at 60.198 268.986 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19770,7 +20363,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.1952 275.59 0)
+			(at 67.0052 275.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19781,7 +20374,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 271.78 0)
+			(at 66.04 271.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19792,7 +20385,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 62.23 271.78 0)
+			(at 66.04 271.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20141,7 +20734,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 60.96 358.14 0)
+		(at 66.04 358.14 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20151,7 +20744,7 @@
 		(dnp no)
 		(uuid "b284bb9f-5cd0-43d4-ac99-46874fb8c15d")
 		(property "Reference" "C47"
-			(at 53.34 356.87 0)
+			(at 58.42 356.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20161,8 +20754,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 53.34 359.41 0)
+		(property "Value" "22nF"
+			(at 58.42 359.41 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20173,7 +20766,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 61.9252 361.95 0)
+			(at 67.0052 361.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20184,7 +20777,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 358.14 0)
+			(at 66.04 358.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20195,7 +20788,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 60.96 358.14 0)
+			(at 66.04 358.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21392,7 +21985,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "47uF"
 			(at 119.38 273.0499 0)
 			(show_name no)
 			(do_not_autoplace no)
