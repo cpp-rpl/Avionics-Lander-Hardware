@@ -5,4 +5,5 @@
 	(lib (name "LIS3MDLTR") (type "KiCad") (uri "${KIPRJMOD}/libraries/LIS3MDLTR/LIS3MDLTR.kicad_sym") (options "") (descr ""))
 	(lib (name "NVMFS6H848NLT1G") (type "KiCad") (uri "${KIPRJMOD}/libraries/NVMFS6H848NLT1G/KiCADv6/2026-09-30_18-42-55.kicad_sym") (options "") (descr ""))
 	(lib (name "SMBJ26A") (type "KiCad") (uri "${KIPRJMOD}/libraries/SMBJ26A/KiCADv6/2026-10-06_14-47-39.kicad_sym") (options "") (descr ""))
+	(lib (name "LSE-OSC") (type "KiCad") (uri "${KIPRJMOD}/libraries/NX3215SA_32_768K_STD_MUA_9/KiCADv6/LSE-OSC.kicad_sym") (options "") (descr ""))
 )
