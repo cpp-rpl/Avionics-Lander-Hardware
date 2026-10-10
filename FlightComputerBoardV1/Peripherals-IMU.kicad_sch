@@ -1854,7 +1854,7 @@
 		)
 		(uuid "2547ff09-0a47-4e0f-9e83-c68f4e9057c3")
 	)
-	(text "I2C ADDRESS: 0X1C\nI2C BUS: TBD"
+	(text "I2C ADDRESS: 0X1C\nI2C BUS: 1\n"
 		(exclude_from_sim no)
 		(at 117.856 148.336 0)
 		(effects
@@ -1866,7 +1866,7 @@
 		)
 		(uuid "34cb5fb1-585b-45e0-b42d-d9437583a808")
 	)
-	(text "I2C ADDRESS: 0X6A\nI2C BUS: TBD"
+	(text "I2C ADDRESS: 0X6A\nI2C BUS: 1\n"
 		(exclude_from_sim no)
 		(at 130.048 26.67 0)
 		(effects
@@ -1878,7 +1878,7 @@
 		)
 		(uuid "45b869d5-2834-4c4d-8bb6-924c371eb070")
 	)
-	(text "I2C ADDRESS: 0X6A\nI2C BUS: TBD"
+	(text "I2C ADDRESS: 0X6A\nI2C BUS: 2\n"
 		(exclude_from_sim no)
 		(at 185.928 78.74 0)
 		(effects
@@ -1902,7 +1902,7 @@
 		)
 		(uuid "89a21d6f-e9ad-456b-856d-401f24f577f0")
 	)
-	(text "I2C ADDRESS: 0X6B\nI2C BUS: TBD"
+	(text "I2C ADDRESS: 0X6B\nI2C BUS: 1\n"
 		(exclude_from_sim no)
 		(at 263.398 26.67 0)
 		(effects
@@ -1926,7 +1926,7 @@
 		)
 		(uuid "cb3af6c6-0b98-4be2-821d-1f84ac64f705")
 	)
-	(text "I2C ADDRESS: 0X47\nI2C BUS: TBD"
+	(text "I2C ADDRESS: 0X47\nI2C BUS: 1"
 		(exclude_from_sim no)
 		(at 357.124 172.72 0)
 		(effects
@@ -1938,7 +1938,7 @@
 		)
 		(uuid "dc5da817-2482-48b6-849e-731f28bd1460")
 	)
-	(text "I2C ADDRESS: 0X1C\nI2C BUS: TBD"
+	(text "I2C ADDRESS: 0X1C\nI2C BUS: 2\n"
 		(exclude_from_sim no)
 		(at 161.036 205.486 0)
 		(effects
@@ -1950,7 +1950,7 @@
 		)
 		(uuid "ec472430-f600-480e-a576-ff802270790b")
 	)
-	(text "I2C ADDRESS: 0X1E\nI2C BUS: TBD"
+	(text "I2C ADDRESS: 0X1E\nI2C BUS: 1\n"
 		(exclude_from_sim no)
 		(at 216.916 148.336 0)
 		(effects
@@ -7102,7 +7102,7 @@
 			"AIAS/h9PJ+NuEJnKZQAAAABJRU5ErkJggg=="
 		)
 	)
-	(hierarchical_label "SDA_I2C_X"
+	(hierarchical_label "SDA_I2C_1"
 		(shape bidirectional)
 		(at 67.31 50.8 180)
 		(effects
@@ -7113,7 +7113,7 @@
 		)
 		(uuid "057b5d38-e05e-4b39-b632-0dab1f827f3b")
 	)
-	(hierarchical_label "SCL_I2C_X"
+	(hierarchical_label "SCL_I2C_1"
 		(shape bidirectional)
 		(at 194.31 48.26 180)
 		(effects
@@ -7124,7 +7124,7 @@
 		)
 		(uuid "2b4dc296-c030-4264-a806-a5efb72a6445")
 	)
-	(hierarchical_label "SCL_I2C_X"
+	(hierarchical_label "SCL_I2C_1"
 		(shape bidirectional)
 		(at 67.31 48.26 180)
 		(effects
@@ -7135,7 +7135,7 @@
 		)
 		(uuid "3726c29c-67f5-4d0c-8719-7230566f258f")
 	)
-	(hierarchical_label "SDA_I2C_Y"
+	(hierarchical_label "SDA_I2C_2"
 		(shape bidirectional)
 		(at 91.44 234.95 180)
 		(effects
@@ -7146,7 +7146,7 @@
 		)
 		(uuid "452a293d-f178-401a-bc2c-e931b4d7885c")
 	)
-	(hierarchical_label "SDA_I2C_X"
+	(hierarchical_label "SDA_I2C_1"
 		(shape bidirectional)
 		(at 154.94 177.8 180)
 		(effects
@@ -7157,7 +7157,7 @@
 		)
 		(uuid "61652ebb-ec00-4e38-8e14-dcb1ff6b736e")
 	)
-	(hierarchical_label "SCL_I2C_Y"
+	(hierarchical_label "SCL_I2C_2"
 		(shape bidirectional)
 		(at 116.84 100.33 180)
 		(effects
@@ -7168,7 +7168,7 @@
 		)
 		(uuid "72bb9667-ded0-4ab2-a3ca-eccd9321a5ef")
 	)
-	(hierarchical_label "SDA_I2C_Y"
+	(hierarchical_label "SDA_I2C_2"
 		(shape bidirectional)
 		(at 116.84 102.87 180)
 		(effects
@@ -7179,7 +7179,7 @@
 		)
 		(uuid "8c30f7db-9b5e-467c-8492-825fde20033a")
 	)
-	(hierarchical_label "SCL_I2C_X"
+	(hierarchical_label "SCL_I2C_1"
 		(shape bidirectional)
 		(at 154.94 175.26 180)
 		(effects
@@ -7190,8 +7190,8 @@
 		)
 		(uuid "a39825f8-c360-4cc7-ae29-c5da91d61f7a")
 	)
-	(hierarchical_label "SCL_I2C_A"
-		(shape input)
+	(hierarchical_label "SCL_I2C_1"
+		(shape bidirectional)
 		(at 314.96 195.58 180)
 		(effects
 			(font
@@ -7201,7 +7201,7 @@
 		)
 		(uuid "c920a43a-6fc9-4e91-b6a9-1b4af108108e")
 	)
-	(hierarchical_label "SDA_I2C_X"
+	(hierarchical_label "SDA_I2C_1"
 		(shape bidirectional)
 		(at 194.31 50.8 180)
 		(effects
@@ -7212,8 +7212,8 @@
 		)
 		(uuid "cae15f83-8566-4907-a672-52ab3aefe13f")
 	)
-	(hierarchical_label "SDA_I2C_A"
-		(shape input)
+	(hierarchical_label "SDA_I2C_1"
+		(shape bidirectional)
 		(at 323.85 205.74 180)
 		(effects
 			(font
@@ -7223,7 +7223,7 @@
 		)
 		(uuid "cd83da1c-7c0d-4a7e-91b3-d55f65ae6666")
 	)
-	(hierarchical_label "SCL_I2C_Y"
+	(hierarchical_label "SCL_I2C_2"
 		(shape bidirectional)
 		(at 91.44 232.41 180)
 		(effects
@@ -7234,7 +7234,7 @@
 		)
 		(uuid "d6907823-60cd-44af-820d-e1deae8d91a6")
 	)
-	(hierarchical_label "SCL_I2C_X"
+	(hierarchical_label "SCL_I2C_1"
 		(shape bidirectional)
 		(at 50.8 175.26 180)
 		(effects
@@ -7245,7 +7245,7 @@
 		)
 		(uuid "dcdfbc5d-2075-4d97-b1a0-6fe6bed585d0")
 	)
-	(hierarchical_label "SDA_I2C_X"
+	(hierarchical_label "SDA_I2C_1"
 		(shape bidirectional)
 		(at 50.8 177.8 180)
 		(effects
@@ -7722,7 +7722,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4.7k"
 			(at 152.654 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9145,7 +9145,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4.7k"
 			(at 326.644 186.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9622,7 +9622,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4.7k"
 			(at 104.648 42.926 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10490,7 +10490,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4.7k"
 			(at 230.124 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10648,7 +10648,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4.7k"
 			(at 160.528 94.996 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11519,7 +11519,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4.7k"
 			(at 317.754 186.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11759,7 +11759,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4.7k"
 			(at 136.144 228.6 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11840,7 +11840,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4.7k"
 			(at 185.674 171.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13623,7 +13623,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4.7k"
 			(at 192.024 171.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14953,7 +14953,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4.7k"
 			(at 92.964 171.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15034,7 +15034,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4.7k"
 			(at 237.998 42.926 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15115,7 +15115,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4.7k"
 			(at 86.614 171.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15509,7 +15509,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4.7k"
 			(at 96.774 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15668,7 +15668,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4.7k"
 			(at 129.794 228.6 0)
 			(show_name no)
 			(do_not_autoplace no)

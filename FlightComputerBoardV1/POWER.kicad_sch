@@ -15166,18 +15166,7 @@
 			)
 		)
 	)
-	(hierarchical_label "I2C0_SDA"
-		(shape bidirectional)
-		(at 233.68 246.38 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "01d175a9-eb34-4dae-85ea-2a6ad652b706")
-	)
-	(hierarchical_label "I2C0_SCL"
+	(hierarchical_label "SCL_I2C_1"
 		(shape bidirectional)
 		(at 233.68 243.84 0)
 		(effects
@@ -15186,20 +15175,9 @@
 			)
 			(justify left)
 		)
-		(uuid "8b68f803-2ba6-469a-b6ab-4b88ff8891fd")
+		(uuid "089f29dd-3e20-4f5b-8d77-841b5eaac41a")
 	)
-	(hierarchical_label "I2C0_SCL"
-		(shape bidirectional)
-		(at 273.05 241.3 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ca06bb1f-b79b-4fff-80c7-ce11f46eebf1")
-	)
-	(hierarchical_label "I2C0_SDA"
+	(hierarchical_label "SDA_I2C_1"
 		(shape bidirectional)
 		(at 273.05 238.76 180)
 		(effects
@@ -15208,7 +15186,29 @@
 			)
 			(justify right)
 		)
-		(uuid "d4e56a85-5c27-4fdb-a087-fcf52a4ed4be")
+		(uuid "1581f5c6-5272-4082-959f-9be60fb4e921")
+	)
+	(hierarchical_label "SDA_I2C_1"
+		(shape bidirectional)
+		(at 233.68 246.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "852ccd04-d335-4a17-8bd8-d439da6157a9")
+	)
+	(hierarchical_label "SCL_I2C_1"
+		(shape bidirectional)
+		(at 273.05 241.3 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ac55216d-a1a3-4273-bf98-40b1b28357a4")
 	)
 	(symbol
 		(lib_id "Device:R_US")
