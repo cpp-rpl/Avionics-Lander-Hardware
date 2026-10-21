@@ -653,7 +653,7 @@
         "uuid": "7795ce7a-d456-4fa5-b86a-75a229c2d679"
       }
     ],
-    "used_designators": "TP17-18,P1,L1-2,X1,SW1-2,C1-54,C76-83,U1-18,U21,RN1,D1-10,#PWR1-108,#PWR114,#PWR125-144,Q1-6,R1-78,R83-94,J1-18,MOSFET1-2,GP1,CR1-2",
+    "used_designators": "TP17-18,P1,L1-2,X1,SW1-2,C1-54,C76-85,U1-18,U21-22,RN1,D1-10,#PWR1-108,#PWR114,#PWR125-147,Q1-6,R1-78,R83-94,J1-18,MOSFET1-2,GP1,CR1-2",
     "variants": []
   },
   "sheets": [
