@@ -12714,6 +12714,30 @@
 			)
 		)
 	)
+	(global_label "ACTUATOR1"
+		(shape output)
+		(at 189.23 185.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "063b7ae0-e72d-40c5-832b-226f02089a0a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.7219 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "VCC_MCU"
 		(shape input)
 		(at 389.89 63.5 0)
@@ -12799,6 +12823,30 @@
 		(uuid "147b4b70-9f55-4a42-8c76-7a663c36c303")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 194.1067 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "ACTUATOR2"
+		(shape output)
+		(at 189.23 187.96 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1ee74025-20fc-4b75-a735-d9968023740c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.7219 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
