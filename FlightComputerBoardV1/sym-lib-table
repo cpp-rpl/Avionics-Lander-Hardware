@@ -8,4 +8,7 @@
 	(lib (name "LSE-OSC") (type "KiCad") (uri "${KIPRJMOD}/libraries/NX3215SA_32_768K_STD_MUA_9/KiCADv6/LSE-OSC.kicad_sym") (options "") (descr ""))
 	(lib (name "PTPS2116DRLR") (type "KiCad") (uri "${KIPRJMOD}/libraries/PTPS2116DRLR/KiCADv6/2026-10-15_02-41-10.kicad_sym") (options "") (descr ""))
 	(lib (name "TLV75533PDBVR") (type "KiCad") (uri "${KIPRJMOD}/libraries/TLV75533PDBVR/KiCADv6/2026-10-21_04-56-22.kicad_sym") (options "") (descr ""))
+	(lib (name "LT4363IDE-2-PBF") (type "KiCad") (uri "${KIPRJMOD}/libraries/ul_LT4363IDE-2-PBF/KiCADv6/2026-10-23_21-59-24.kicad_sym") (options "") (descr ""))
+	(lib (name "SMAJ58A") (type "KiCad") (uri "${KIPRJMOD}/libraries/SMAJ58A/KiCADv6/2026-10-24_00-54-10.kicad_sym") (options "") (descr ""))
+	(lib (name "FDB33N25TM") (type "KiCad") (uri "${KIPRJMOD}/libraries/FDB33N25TM/2026-10-24_00-58-12.kicad_sym") (options "") (descr ""))
 )
