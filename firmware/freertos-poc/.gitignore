@@ -1,0 +1,5 @@
+build/
+_to_delete/
+.DS_Store
+*.log
+run*.png
