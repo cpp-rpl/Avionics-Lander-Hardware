@@ -12,4 +12,5 @@
 	(lib (name "SMAJ58A") (type "KiCad") (uri "${KIPRJMOD}/libraries/SMAJ58A/KiCADv6/2026-10-24_00-54-10.kicad_sym") (options "") (descr ""))
 	(lib (name "FDB33N25TM") (type "KiCad") (uri "${KIPRJMOD}/libraries/FDB33N25TM/2026-10-24_00-58-12.kicad_sym") (options "") (descr ""))
 	(lib (name "PSMN4R8-100BSE") (type "KiCad") (uri "${KIPRJMOD}/libraries/PSMN4R8-100BSE/2026-10-24_05-45-36.kicad_sym") (options "") (descr ""))
+	(lib (name "C3E-25.000-12-3030-X-R") (type "KiCad") (uri "${KIPRJMOD}/libraries/HSE_OSC/C3E-25.000-12-3030-X-R.kicad_sym") (options "") (descr ""))
 )
