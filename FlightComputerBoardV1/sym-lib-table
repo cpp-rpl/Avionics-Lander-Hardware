@@ -13,4 +13,7 @@
 	(lib (name "FDB33N25TM") (type "KiCad") (uri "${KIPRJMOD}/libraries/FDB33N25TM/2026-10-24_00-58-12.kicad_sym") (options "") (descr ""))
 	(lib (name "PSMN4R8-100BSE") (type "KiCad") (uri "${KIPRJMOD}/libraries/PSMN4R8-100BSE/2026-10-24_05-45-36.kicad_sym") (options "") (descr ""))
 	(lib (name "C3E-25.000-12-3030-X-R") (type "KiCad") (uri "${KIPRJMOD}/libraries/HSE_OSC/C3E-25.000-12-3030-X-R.kicad_sym") (options "") (descr ""))
+	(lib (name "LTC4418") (type "KiCad") (uri "${KIPRJMOD}/libraries/LTC4418IUF/2026-10-27_02-12-24.kicad_sym") (options "") (descr ""))
+	(lib (name "FDD4685") (type "KiCad") (uri "${KIPRJMOD}/libraries/FDD4685/KiCADv6/2026-10-27_06-08-07.kicad_sym") (options "") (descr ""))
+	(lib (name "BAT46WJ115") (type "KiCad") (uri "${KIPRJMOD}/libraries/BAT46WJ_115/KiCADv6/2026-10-27_06-16-41.kicad_sym") (options "") (descr ""))
 )
