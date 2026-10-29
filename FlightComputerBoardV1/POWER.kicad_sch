@@ -9998,6 +9998,18 @@
 		)
 		(uuid "482fa5af-1e2b-4aa4-99cb-b1eef602428b")
 	)
+	(text "Replace with H bridge circuit, gate driver, and FETs"
+		(exclude_from_sim no)
+		(at 387.35 283.718 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 5.08 5.08)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "8f68d6f2-0928-45d1-8328-cadebfe32ff5")
+	)
 	(text "1000100"
 		(exclude_from_sim no)
 		(at 262.636 550.926 0)

@@ -773,7 +773,7 @@
         "uuid": "7795ce7a-d456-4fa5-b86a-75a229c2d679"
       }
     ],
-    "used_designators": "CR1-4,GP1,MOSFET1-4,J1-18,R1-80,R83-117,Q1-10,U1-18,U21-23,U28-36,SW1-2,C1-54,C76-109,Y1,RN1,D1-10,#PWR1-108,#PWR114,#PWR125-147,#PWR152-153,#PWR157,#PWR161-202,X1,L1-2,P1,TP17-18",
+    "used_designators": "CR1-4,U1-18,U21-23,U28-36,GP1,MOSFET1-4,J1-18,R1-80,R83-118,Q1-10,SW1-2,C1-54,C76-109,Y1,RN1,D1-10,#PWR1-108,#PWR114,#PWR125-147,#PWR152-153,#PWR157,#PWR161-208,X1,L1-2,P1,TP17-25,RF1,RAD1-2",
     "variants": []
   },
   "sheets": [
@@ -800,6 +800,10 @@
     [
       "78d6639c-7a35-41f5-9448-c6f5f489d76f",
       "GPS"
+    ],
+    [
+      "c074235c-8a42-42ef-b702-e3dc1407c3f6",
+      "RADAR"
     ]
   ],
   "text_variables": {},

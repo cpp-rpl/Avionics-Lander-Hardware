@@ -9285,6 +9285,16 @@
 	)
 	(wire
 		(pts
+			(xy 265.43 220.98) (xy 273.05 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e476c0c-6336-42ca-b586-9e60559088e1")
+	)
+	(wire
+		(pts
 			(xy 245.11 43.18) (xy 245.11 45.72)
 		)
 		(stroke
@@ -9302,6 +9312,16 @@
 			(type default)
 		)
 		(uuid "3f74a13b-882b-4f41-87fb-a09304825f67")
+	)
+	(wire
+		(pts
+			(xy 265.43 78.74) (xy 267.97 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "404e40e1-cf1a-454d-aa6b-66dc1d76aa25")
 	)
 	(wire
 		(pts
@@ -9452,6 +9472,16 @@
 			(type default)
 		)
 		(uuid "5060f358-c0a7-498c-829c-631075215554")
+	)
+	(wire
+		(pts
+			(xy 265.43 157.48) (xy 271.78 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52bb9848-7499-46b1-a58a-3de8e07ad7df")
 	)
 	(wire
 		(pts
@@ -9885,6 +9915,16 @@
 	)
 	(wire
 		(pts
+			(xy 265.43 223.52) (xy 273.05 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72016102-c0e4-46fa-ac39-ee289746fc57")
+	)
+	(wire
+		(pts
 			(xy 219.71 43.18) (xy 219.71 45.72)
 		)
 		(stroke
@@ -10032,6 +10072,16 @@
 			(type default)
 		)
 		(uuid "82d6b948-f95a-4ee2-93a5-1e4762bc80a8")
+	)
+	(wire
+		(pts
+			(xy 265.43 81.28) (xy 267.97 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83fdb4b8-ee73-4598-9449-73e6eb7b691c")
 	)
 	(wire
 		(pts
@@ -10252,6 +10302,16 @@
 			(type default)
 		)
 		(uuid "9302f04e-882c-4c3d-8bba-e2f48804c4c2")
+	)
+	(wire
+		(pts
+			(xy 265.43 160.02) (xy 271.78 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94336db1-0af0-499b-9d3c-1979247d1e4f")
 	)
 	(wire
 		(pts
@@ -15032,6 +15092,17 @@
 		)
 		(uuid "1881270e-1a20-42e5-a085-fe997b3ac03e")
 	)
+	(hierarchical_label "TX_UART_MC"
+		(shape output)
+		(at 267.97 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1e043ac6-d2ef-4d20-979d-c0c1c9aff625")
+	)
 	(hierarchical_label "ADC12_INP8"
 		(shape input)
 		(at 271.78 154.94 0)
@@ -15054,6 +15125,17 @@
 		)
 		(uuid "2bd06063-c761-479e-84ff-49d23f8b7e09")
 	)
+	(hierarchical_label "RX_UART_MC"
+		(shape input)
+		(at 267.97 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "39422d68-d715-4d05-ba0e-cb8c5828715f")
+	)
 	(hierarchical_label "ADC12_INP15"
 		(shape input)
 		(at 269.24 63.5 0)
@@ -15064,6 +15146,28 @@
 			(justify left)
 		)
 		(uuid "588642bb-fa23-4cd4-b760-95baaadb57e7")
+	)
+	(hierarchical_label "TX_UART_MC_R2"
+		(shape output)
+		(at 271.78 157.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5c2fff6e-c1d1-4883-aaab-79f3ecfcf59b")
+	)
+	(hierarchical_label "RX_UART_MC_R2"
+		(shape input)
+		(at 271.78 160.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5de963f7-682e-4d9d-a173-18b5b24c64ca")
 	)
 	(hierarchical_label "ADC123_INP10"
 		(shape input)
@@ -15086,6 +15190,17 @@
 			(justify left)
 		)
 		(uuid "73b1f315-9cd0-47be-9eb6-db5c3bf544cd")
+	)
+	(hierarchical_label "RX_UART_MC_R1"
+		(shape input)
+		(at 273.05 223.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "776513b1-c191-4ab9-91f3-6fd7c117e6c3")
 	)
 	(hierarchical_label "ADC123_INP11"
 		(shape input)
@@ -15119,6 +15234,17 @@
 			(justify left)
 		)
 		(uuid "aa8e30cc-941e-47fc-942f-f01a76f7fe19")
+	)
+	(hierarchical_label "TX_UART_MC_R1"
+		(shape output)
+		(at 273.05 220.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c2c1af7d-1d74-4d75-a487-7c26536577ee")
 	)
 	(hierarchical_label "ADC12_INP4"
 		(shape input)
