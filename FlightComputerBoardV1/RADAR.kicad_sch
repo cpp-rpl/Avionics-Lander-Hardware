@@ -2626,7 +2626,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RC0402N_PAN"
+		(property "Footprint" ""
 			(at 63.5 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -2875,7 +2875,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RC0402N_PAN"
+		(property "Footprint" ""
 			(at 63.5 147.32 0)
 			(hide yes)
 			(show_name no)

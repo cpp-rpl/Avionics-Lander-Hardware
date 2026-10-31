@@ -4987,7 +4987,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RC0805N_YAG"
 			(at 34.544 221.996 90)
 			(hide yes)
 			(show_name no)
@@ -5147,7 +5147,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_CRCW_0805"
 			(at 124.206 52.324 90)
 			(hide yes)
 			(show_name no)
@@ -5566,7 +5566,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RC0805N_YAG"
 			(at 292.354 220.726 90)
 			(hide yes)
 			(show_name no)
@@ -5812,7 +5812,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_RC0805_YAG"
 			(at 241.554 164.084 90)
 			(hide yes)
 			(show_name no)
@@ -5894,7 +5894,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_CRCW_0805"
 			(at 167.386 52.324 90)
 			(hide yes)
 			(show_name no)
@@ -5974,7 +5974,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_CRCW_0805"
 			(at 373.634 42.164 90)
 			(hide yes)
 			(show_name no)
@@ -6054,7 +6054,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_CRCW_0805"
 			(at 71.374 42.164 90)
 			(hide yes)
 			(show_name no)
@@ -6133,7 +6133,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RC0805N_YAG"
 			(at 374.904 224.536 90)
 			(hide yes)
 			(show_name no)
@@ -6609,7 +6609,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 395.9352 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -6927,7 +6927,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PS2811-1_REN"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:PS2811-1_REN"
 			(at 309.88 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -7093,7 +7093,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_CRCW_0805"
 			(at 244.094 42.164 90)
 			(hide yes)
 			(show_name no)
@@ -7250,7 +7250,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RC0805N_YAG"
 			(at 245.364 225.806 90)
 			(hide yes)
 			(show_name no)
@@ -7332,7 +7332,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_CRCW_0805"
 			(at 253.746 52.324 90)
 			(hide yes)
 			(show_name no)
@@ -7576,7 +7576,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 352.7552 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -7658,7 +7658,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 309.5752 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -7818,7 +7818,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_CRCW_0805"
 			(at 340.106 52.324 90)
 			(hide yes)
 			(show_name no)
@@ -7898,7 +7898,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PS2811-1_REN"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:PS2811-1_REN"
 			(at 52.07 217.17 0)
 			(hide yes)
 			(show_name no)
@@ -7985,7 +7985,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RC0805N_YAG"
 			(at 117.094 171.196 90)
 			(hide yes)
 			(show_name no)
@@ -8067,7 +8067,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_CRCW_0805"
 			(at 210.566 52.324 90)
 			(hide yes)
 			(show_name no)
@@ -8646,7 +8646,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_CRCW_0805"
 			(at 81.026 52.324 90)
 			(hide yes)
 			(show_name no)
@@ -8726,7 +8726,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_CRCW_0805"
 			(at 287.274 42.164 90)
 			(hide yes)
 			(show_name no)
@@ -8806,7 +8806,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_CRCW_0805"
 			(at 330.454 42.164 90)
 			(hide yes)
 			(show_name no)
@@ -8886,7 +8886,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_CRCW_0805"
 			(at 157.734 42.164 90)
 			(hide yes)
 			(show_name no)
@@ -8965,7 +8965,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_RC0805_YAG"
 			(at 113.284 164.084 90)
 			(hide yes)
 			(show_name no)
@@ -9129,7 +9129,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_CRCW_0805"
 			(at 383.286 52.324 90)
 			(hide yes)
 			(show_name no)
@@ -9371,7 +9371,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RC0805N_YAG"
 			(at 162.814 221.996 90)
 			(hide yes)
 			(show_name no)
@@ -10308,7 +10308,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RC0805N_YAG"
 			(at 292.354 166.116 90)
 			(hide yes)
 			(show_name no)
@@ -10390,7 +10390,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 136.8552 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -10731,7 +10731,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PS2811-1_REN"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:PS2811-1_REN"
 			(at 309.88 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -10818,7 +10818,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_RC0805_YAG"
 			(at 113.284 218.694 90)
 			(hide yes)
 			(show_name no)
@@ -10897,7 +10897,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RC0805N_YAG"
 			(at 117.094 225.806 90)
 			(hide yes)
 			(show_name no)
@@ -11160,7 +11160,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_CRCW_0805"
 			(at 296.926 52.324 90)
 			(hide yes)
 			(show_name no)
@@ -11630,7 +11630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PS2811-1_REN"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:PS2811-1_REN"
 			(at 52.07 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -12042,7 +12042,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RC0805N_YAG"
 			(at 374.904 169.926 90)
 			(hide yes)
 			(show_name no)
@@ -12204,7 +12204,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 93.6752 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -12286,7 +12286,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 223.2152 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -12366,7 +12366,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_CRCW_0805"
 			(at 200.914 42.164 90)
 			(hide yes)
 			(show_name no)
@@ -12524,7 +12524,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_CRCW_0805"
 			(at 114.554 42.164 90)
 			(hide yes)
 			(show_name no)
@@ -12606,7 +12606,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RC0805N_YAG"
 			(at 34.544 167.386 90)
 			(hide yes)
 			(show_name no)
@@ -12688,7 +12688,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_CRCW_0805"
 			(at 37.846 52.324 90)
 			(hide yes)
 			(show_name no)
@@ -12767,7 +12767,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_RC0805_YAG"
 			(at 371.094 162.814 90)
 			(hide yes)
 			(show_name no)
@@ -12927,7 +12927,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 180.0352 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -13170,7 +13170,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_RC0805_YAG"
 			(at 241.554 218.694 90)
 			(hide yes)
 			(show_name no)
@@ -13656,7 +13656,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 50.4952 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -13820,7 +13820,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 266.3952 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -14059,7 +14059,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_RC0805_YAG"
 			(at 371.094 217.424 90)
 			(hide yes)
 			(show_name no)
@@ -14224,7 +14224,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PS2811-1_REN"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:PS2811-1_REN"
 			(at 180.34 217.17 0)
 			(hide yes)
 			(show_name no)
@@ -14389,7 +14389,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RC0805N_YAG"
 			(at 245.364 171.196 90)
 			(hide yes)
 			(show_name no)
@@ -14469,7 +14469,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PS2811-1_REN"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:PS2811-1_REN"
 			(at 180.34 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -14559,7 +14559,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RC0805N_YAG"
 			(at 162.814 167.386 90)
 			(hide yes)
 			(show_name no)

@@ -8645,6 +8645,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 195.58) (xy 189.23 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01c08da0-e104-4aca-beb1-fac652345ff3")
+	)
+	(wire
+		(pts
 			(xy 237.49 43.18) (xy 240.03 43.18)
 		)
 		(stroke
@@ -8765,6 +8775,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 198.12) (xy 189.23 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0eb7ac5c-a24a-4450-8dcb-f32e19c3649d")
+	)
+	(wire
+		(pts
 			(xy 299.72 111.76) (xy 299.72 124.46)
 		)
 		(stroke
@@ -8772,6 +8792,16 @@
 			(type default)
 		)
 		(uuid "0f563b6d-1c8d-443e-bbd9-6fde19c13149")
+	)
+	(wire
+		(pts
+			(xy 265.43 165.1) (xy 266.7 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f7d3fbf-a205-4ced-86de-a21e6d83e2df")
 	)
 	(wire
 		(pts
@@ -8812,6 +8842,16 @@
 			(type default)
 		)
 		(uuid "1383def5-5372-46b5-aa02-86afdc197646")
+	)
+	(wire
+		(pts
+			(xy 187.96 88.9) (xy 189.23 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "155ccb91-34d5-4e56-b91d-85cbdaec51ab")
 	)
 	(wire
 		(pts
@@ -8945,6 +8985,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 99.06) (xy 189.23 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fc4d489-e23c-4053-bc3a-cea0d97173a4")
+	)
+	(wire
+		(pts
 			(xy 367.03 170.18) (xy 384.81 170.18)
 		)
 		(stroke
@@ -9035,6 +9085,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 200.66) (xy 189.23 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2779c352-c99f-437e-b3ca-d2c33da5a667")
+	)
+	(wire
+		(pts
 			(xy 76.2 166.37) (xy 80.01 166.37)
 		)
 		(stroke
@@ -9105,6 +9165,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 154.94) (xy 189.23 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2db07ba6-2d13-49f0-8244-f5a85f2b67c8")
+	)
+	(wire
+		(pts
 			(xy 265.43 127) (xy 302.26 127)
 		)
 		(stroke
@@ -9145,6 +9215,16 @@
 	)
 	(wire
 		(pts
+			(xy 347.98 77.47) (xy 364.49 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31299885-8918-4aed-a18f-6794b1480226")
+	)
+	(wire
+		(pts
 			(xy 152.4 39.37) (xy 152.4 43.18)
 		)
 		(stroke
@@ -9172,6 +9252,16 @@
 			(type default)
 		)
 		(uuid "33bad78e-00bf-4dd6-8ae0-ed9f1b791117")
+	)
+	(wire
+		(pts
+			(xy 187.96 160.02) (xy 189.23 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "350db916-7ac7-49dd-978a-563df5e3a5ee")
 	)
 	(wire
 		(pts
@@ -9355,6 +9445,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 96.52) (xy 189.23 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42f2ae68-bf64-4b10-b38f-0a4a6ff98424")
+	)
+	(wire
+		(pts
 			(xy 311.15 24.13) (xy 317.5 24.13)
 		)
 		(stroke
@@ -9412,6 +9512,16 @@
 			(type default)
 		)
 		(uuid "47c1677a-732b-40e5-9a6c-1536dd0bd36e")
+	)
+	(wire
+		(pts
+			(xy 187.96 208.28) (xy 189.23 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a1d3f10-6e8e-40c9-9828-f910d0738545")
 	)
 	(wire
 		(pts
@@ -9582,6 +9692,16 @@
 			(type default)
 		)
 		(uuid "5aa8a8fa-a83f-43aa-a352-0caf2d575575")
+	)
+	(wire
+		(pts
+			(xy 187.96 162.56) (xy 189.23 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ac660ac-b0d3-4f08-ab70-12bc55a83d7d")
 	)
 	(wire
 		(pts
@@ -10025,16 +10145,6 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 77.47) (xy 364.49 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "812c2864-09bb-4efa-aa3e-f31662454a3b")
-	)
-	(wire
-		(pts
 			(xy 95.25 265.43) (xy 95.25 266.7)
 		)
 		(stroke
@@ -10162,16 +10272,6 @@
 			(type default)
 		)
 		(uuid "8a8a562e-7415-4b62-b9ac-cd274ee0ec6f")
-	)
-	(wire
-		(pts
-			(xy 347.98 91.44) (xy 364.49 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8acdd3af-b470-4239-a901-dbc1bf053fe7")
 	)
 	(wire
 		(pts
@@ -10615,6 +10715,16 @@
 	)
 	(wire
 		(pts
+			(xy 347.98 91.44) (xy 364.49 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b408d46a-40ed-4513-bab0-9300cf56ac3d")
+	)
+	(wire
+		(pts
 			(xy 24.13 232.41) (xy 24.13 233.68)
 		)
 		(stroke
@@ -10642,6 +10752,16 @@
 			(type default)
 		)
 		(uuid "b74c74ab-3d59-40e0-b7a9-0e4feaaee7c2")
+	)
+	(wire
+		(pts
+			(xy 187.96 157.48) (xy 189.23 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7e770ad-fbc3-4528-8267-dde3c45e3bd0")
 	)
 	(wire
 		(pts
@@ -10675,16 +10795,6 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 63.5) (xy 364.49 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c20388cc-2ec0-49b9-a02b-e37e94609283")
-	)
-	(wire
-		(pts
 			(xy 175.26 214.63) (xy 175.26 218.44)
 		)
 		(stroke
@@ -10702,6 +10812,16 @@
 			(type default)
 		)
 		(uuid "c530699f-84ba-4fa2-a2bc-a69a85720e8d")
+	)
+	(wire
+		(pts
+			(xy 265.43 162.56) (xy 266.7 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5aab77e-356c-4492-83fd-b82aee10e0f8")
 	)
 	(wire
 		(pts
@@ -11255,6 +11375,16 @@
 	)
 	(wire
 		(pts
+			(xy 347.98 63.5) (xy 364.49 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f95bc137-26d7-444c-a09b-7e4f1b3d25af")
+	)
+	(wire
+		(pts
 			(xy 50.8 67.31) (xy 58.42 67.31)
 		)
 		(stroke
@@ -11262,6 +11392,16 @@
 			(type default)
 		)
 		(uuid "fa8b1fc6-e649-494a-b229-4a526262daa6")
+	)
+	(wire
+		(pts
+			(xy 187.96 193.04) (xy 189.23 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdc78388-ea85-4700-b943-57ebcd442a52")
 	)
 	(wire
 		(pts
@@ -15136,6 +15276,50 @@
 		)
 		(uuid "39422d68-d715-4d05-ba0e-cb8c5828715f")
 	)
+	(hierarchical_label "TIM1_BKIN"
+		(shape output)
+		(at 187.96 208.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3e6d3e35-f72a-49b6-8781-68bd82111d96")
+	)
+	(hierarchical_label "TIM1_CH1"
+		(shape output)
+		(at 187.96 193.04 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "49250d4f-e9dc-4a07-bce7-28a3e1d761a0")
+	)
+	(hierarchical_label "PG5_GPIO"
+		(shape output)
+		(at 187.96 96.52 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4e843669-36fe-4d57-854a-722df2bcfd48")
+	)
+	(hierarchical_label "EXTI16"
+		(shape output)
+		(at 187.96 99.06 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4f767dd2-77bd-44ce-9de3-fb42270c9c80")
+	)
 	(hierarchical_label "ADC12_INP15"
 		(shape input)
 		(at 269.24 63.5 0)
@@ -15202,6 +15386,17 @@
 		)
 		(uuid "776513b1-c191-4ab9-91f3-6fd7c117e6c3")
 	)
+	(hierarchical_label "TIM1_CH2"
+		(shape output)
+		(at 187.96 198.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "86514cb6-e9e3-483b-890e-98720d1e6ae5")
+	)
 	(hierarchical_label "ADC123_INP11"
 		(shape input)
 		(at 271.78 144.78 0)
@@ -15212,6 +15407,39 @@
 			(justify left)
 		)
 		(uuid "8ae30210-bbf1-43bf-b766-219513ec74c6")
+	)
+	(hierarchical_label "ADC1_INP2"
+		(shape input)
+		(at 187.96 154.94 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8e1dc783-6576-43c8-b5cd-8ca570cf643d")
+	)
+	(hierarchical_label "TIM8_CH4"
+		(shape output)
+		(at 266.7 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9ca84ed7-435b-498f-b962-e953e0618c49")
+	)
+	(hierarchical_label "ADC2_INP2"
+		(shape input)
+		(at 187.96 160.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a0146a87-ba26-4a2f-a4bb-6eac4257d740")
 	)
 	(hierarchical_label "I2C2_SCL"
 		(shape bidirectional)
@@ -15235,6 +15463,28 @@
 		)
 		(uuid "aa8e30cc-941e-47fc-942f-f01a76f7fe19")
 	)
+	(hierarchical_label "TIM8_CH3"
+		(shape output)
+		(at 266.7 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ae5705a6-5f49-46bf-a468-25542511853e")
+	)
+	(hierarchical_label "TIM8_BKIN"
+		(shape output)
+		(at 187.96 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b863c42d-f374-4338-bb7b-ca1764d1253f")
+	)
 	(hierarchical_label "TX_UART_MC_R1"
 		(shape output)
 		(at 273.05 220.98 0)
@@ -15246,6 +15496,17 @@
 		)
 		(uuid "c2c1af7d-1d74-4d75-a487-7c26536577ee")
 	)
+	(hierarchical_label "ADC1_INP6"
+		(shape input)
+		(at 187.96 157.48 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ca30f3bd-fe7d-49ad-9a07-0cbfc26d69b8")
+	)
 	(hierarchical_label "ADC12_INP4"
 		(shape input)
 		(at 271.78 152.4 0)
@@ -15256,6 +15517,17 @@
 			(justify left)
 		)
 		(uuid "cd0a40cc-0d4d-434b-b6a1-20c08933df7d")
+	)
+	(hierarchical_label "ADC2_INP6"
+		(shape input)
+		(at 187.96 162.56 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d25d96d6-5041-472a-88de-a479b99866d7")
 	)
 	(hierarchical_label "ADC12_INP9"
 		(shape input)
@@ -15278,6 +15550,28 @@
 			(justify left)
 		)
 		(uuid "de921483-9661-439a-a437-1f46dc819008")
+	)
+	(hierarchical_label "PE10_GPIO"
+		(shape output)
+		(at 187.96 195.58 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e9c8f082-eb97-4eb2-a885-b8241e8eaf0e")
+	)
+	(hierarchical_label "EXTI12"
+		(shape output)
+		(at 187.96 200.66 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ed7f8a2c-a134-436f-a62b-5ca05196d76d")
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -15313,7 +15607,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 352.7552 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -15628,7 +15922,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "XTAL_NX3215SA_NDK"
+		(property "Footprint" ""
 			(at 367.03 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -15791,7 +16085,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Array_SIP4"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RC0805N_YAG"
 			(at 51.816 59.944 90)
 			(hide yes)
 			(show_name no)
@@ -15989,7 +16283,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "5100H1 LED"
 			(at 368.3 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -16138,7 +16432,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 178.7652 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -16534,7 +16828,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 77.1652 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -16616,7 +16910,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM188_MUR"
 			(at 341.3252 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -16875,7 +17169,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "5100H1 LED"
 			(at 368.3 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -17044,7 +17338,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "5100H1 LED"
 			(at 368.3 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -17272,7 +17566,7 @@
 				)
 			)
 		)
-		(property "Footprint" "XTAL_NX3215SA_NDK"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:G-155_MUR_10p"
 			(at 378.46 127.3048 0)
 			(hide yes)
 			(show_name no)
@@ -17354,7 +17648,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 51.7652 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -17514,7 +17808,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM188_MUR"
 			(at 307.0352 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -17596,7 +17890,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM188_MUR"
 			(at 282.9052 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -17675,7 +17969,7 @@
 				)
 			)
 		)
-		(property "Footprint" "XTAL_NX3215SA_NDK"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:G-155_MUR_91"
 			(at 384.81 181.3052 0)
 			(hide yes)
 			(show_name no)
@@ -17757,7 +18051,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 166.0652 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -18049,7 +18343,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 64.4652 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -18209,7 +18503,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 115.2652 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -18291,7 +18585,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GRT188R_MUR_22"
 			(at 182.5752 226.06 0)
 			(hide yes)
 			(show_name no)
@@ -18458,7 +18752,7 @@
 				)
 			)
 		)
-		(property "Footprint" "XTAL_NX3215SA_NDK"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:G-155_MUR_10p"
 			(at 378.46 146.3548 0)
 			(hide yes)
 			(show_name no)
@@ -19128,7 +19422,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 140.6652 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -19210,7 +19504,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_475MLHT_TAY"
 			(at 39.0652 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -19723,7 +20017,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 84.1248 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -20153,7 +20447,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_RC0805_YAG"
 			(at 303.276 108.204 90)
 			(hide yes)
 			(show_name no)
@@ -20235,7 +20529,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 102.5652 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -20496,7 +20790,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 59.3852 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -20813,7 +21107,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 153.3652 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -20894,7 +21188,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_RC0805_YAG"
 			(at 290.576 114.554 90)
 			(hide yes)
 			(show_name no)
@@ -20975,7 +21269,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_RC0805_YAG"
 			(at 288.036 114.554 90)
 			(hide yes)
 			(show_name no)
@@ -21373,7 +21667,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GRT188R_MUR_22"
 			(at 169.8752 226.06 0)
 			(hide yes)
 			(show_name no)
@@ -21612,7 +21906,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 127.9652 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -21900,7 +22194,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 318.4652 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -21982,7 +22276,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_CL_05_SAM"
 			(at 94.2848 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -22163,7 +22457,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RC0805N_YAG"
 			(at 65.786 134.874 90)
 			(hide yes)
 			(show_name no)
@@ -22245,7 +22539,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 89.8652 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -22326,7 +22620,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_RC0805_YAG"
 			(at 300.736 108.204 90)
 			(hide yes)
 			(show_name no)
@@ -22720,7 +23014,7 @@
 				)
 			)
 		)
-		(property "Footprint" "XTAL_NX3215SA_NDK"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:G-155_MUR_91"
 			(at 392.43 169.2148 0)
 			(hide yes)
 			(show_name no)

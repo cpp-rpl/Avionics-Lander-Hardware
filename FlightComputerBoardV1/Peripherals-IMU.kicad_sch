@@ -6994,7 +6994,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LSM6DSOXTR:PQFN50P250X300X86-14N"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM188_MUR"
 			(at 153.3652 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -7701,7 +7701,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_RC0805_YAG"
 			(at 199.136 166.624 90)
 			(hide yes)
 			(show_name no)
@@ -7939,7 +7939,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LSM6DSOXTR:PQFN50P250X300X86-14N"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 185.1152 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -8098,7 +8098,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_RC0805_YAG"
 			(at 167.386 94.234 90)
 			(hide yes)
 			(show_name no)
@@ -8180,7 +8180,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LSM6DSOXTR:PQFN50P250X300X86-14N"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 307.0352 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -8573,7 +8573,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LSM6DSOXTR:PQFN50P250X300X86-14N"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 291.7952 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -8733,7 +8733,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LSM6DSOXTR:PQFN50P250X300X86-14N"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 293.0652 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -9434,7 +9434,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LSM6DSOXTR:PQFN50P250X300X86-14N"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 94.9452 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -9516,7 +9516,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LSM6DSOXTR:PQFN50P250X300X86-14N"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 138.1252 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -9597,7 +9597,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_RC0805_YAG"
 			(at 143.256 223.774 90)
 			(hide yes)
 			(show_name no)
@@ -9756,7 +9756,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LSM6DSOXTR:PQFN50P250X300X86-14N"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 194.0052 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -10072,7 +10072,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LSM6DSOXTR:PQFN50P250X300X86-14N"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 215.5952 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -10308,7 +10308,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LSM6DSOXTR:PQFN50P250X300X86-14N"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM188_MUR"
 			(at 252.4252 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -10545,7 +10545,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LSM6DSOXTR:PQFN50P250X300X86-14N"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 393.3952 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -11016,7 +11016,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_RC0805_YAG"
 			(at 244.856 42.164 90)
 			(hide yes)
 			(show_name no)
@@ -11617,7 +11617,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LSM6DSOXTR:PQFN50P250X300X86-14N"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 240.9952 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -11931,7 +11931,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LSM6DSOXTR:PQFN50P250X300X86-14N"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM188_MUR"
 			(at 196.5452 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -12012,7 +12012,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_RC0805_YAG"
 			(at 111.506 42.164 90)
 			(hide yes)
 			(show_name no)
@@ -12793,7 +12793,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LSM6DSOXTR:PQFN50P250X300X86-14N"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 159.7152 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -13030,7 +13030,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LSM6DSOXTR:PQFN50P250X300X86-14N"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 141.9352 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -13969,7 +13969,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LSM6DSOXTR:PQFN50P250X300X86-14N"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 173.6852 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -14051,7 +14051,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LSM6DSOXTR:PQFN50P250X300X86-14N"
+		(property "Footprint" "FlightComputerBoardV1_Footprints:CAP_GCM15_MUR"
 			(at 229.5652 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -14132,7 +14132,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "FlightComputerBoardV1_Footprints:RES_RC0805_YAG"
 			(at 100.076 166.624 90)
 			(hide yes)
 			(show_name no)
