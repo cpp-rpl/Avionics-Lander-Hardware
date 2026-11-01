@@ -8765,6 +8765,16 @@
 	)
 	(wire
 		(pts
+			(xy 265.43 129.54) (xy 270.51 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cd17da1-c8f2-4024-bd87-90ab91013a68")
+	)
+	(wire
+		(pts
 			(xy 104.14 196.85) (xy 104.14 198.12)
 		)
 		(stroke
@@ -10195,6 +10205,16 @@
 	)
 	(wire
 		(pts
+			(xy 265.43 58.42) (xy 269.24 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85f6dbb4-6bfa-4446-94fd-01d943c0aa16")
+	)
+	(wire
+		(pts
 			(xy 311.15 22.86) (xy 311.15 24.13)
 		)
 		(stroke
@@ -10442,16 +10462,6 @@
 			(type default)
 		)
 		(uuid "95f57461-4c9f-464e-ac3c-c1d0a181b5ac")
-	)
-	(wire
-		(pts
-			(xy 265.43 68.58) (xy 269.24 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "96ef3eb4-21fa-4fa2-a13f-aba47ccac97f")
 	)
 	(wire
 		(pts
@@ -10985,6 +10995,16 @@
 	)
 	(wire
 		(pts
+			(xy 265.43 132.08) (xy 270.51 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6d52192-cdd4-40cc-aa81-018e96e8e552")
+	)
+	(wire
+		(pts
 			(xy 101.6 182.88) (xy 104.14 182.88)
 		)
 		(stroke
@@ -11132,6 +11152,16 @@
 			(type default)
 		)
 		(uuid "e0e90cd2-0161-43ce-b17b-ad8c68c191a4")
+	)
+	(wire
+		(pts
+			(xy 265.43 134.62) (xy 270.51 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1185093-7516-4c79-bfef-458bdeea35ca")
 	)
 	(wire
 		(pts
@@ -13990,6 +14020,16 @@
 		)
 		(uuid "1170e7b4-012c-4a50-980f-7d57c9458f0a")
 	)
+	(label "STATUS_LED_2"
+		(at 270.51 132.08 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "152d1a74-3ea7-4f81-90fb-ca0a4c0ee660")
+	)
 	(label "STATUS_LED_1"
 		(at 347.98 63.5 0)
 		(effects
@@ -14023,6 +14063,16 @@
 			(justify left bottom)
 		)
 		(uuid "3f9437aa-71ac-4d79-a820-a3d723a9ef96")
+	)
+	(label "STATUS_LED_1"
+		(at 270.51 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "474027c4-5820-4849-bb31-10fd1db4d0c3")
 	)
 	(label "VREF_MCU"
 		(at 346.71 22.86 0)
@@ -14159,6 +14209,16 @@
 			(justify left bottom)
 		)
 		(uuid "ee5aa536-4e33-459c-8a37-05d5f70d596a")
+	)
+	(label "STATUS_LED_3"
+		(at 270.51 134.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f25a6aa5-7a13-4ac7-be5d-1bc97df5da17")
 	)
 	(label "DAT1"
 		(at 72.39 237.49 0)
@@ -14754,6 +14814,54 @@
 			)
 		)
 	)
+	(global_label "SPI_MISO"
+		(shape bidirectional)
+		(at 265.43 71.12 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8d72a93d-3b88-44e5-b3c4-035a10fdc9ad")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 277.1465 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "SPI_SCK"
+		(shape bidirectional)
+		(at 265.43 68.58 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "90c25bce-8b26-43a7-b77a-6c48aa757581")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 277.1465 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "VCC_MCU"
 		(shape input)
 		(at 389.89 77.47 0)
@@ -14767,6 +14875,30 @@
 		(uuid "9316b778-4e8a-496c-af00-d3b288f553ac")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 401.5233 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "SPI_CS"
+		(shape bidirectional)
+		(at 265.43 66.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "943cd141-ed66-4257-932d-28a91e882561")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 276.0579 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15066,6 +15198,30 @@
 			)
 		)
 	)
+	(global_label "SPI_MOSI"
+		(shape bidirectional)
+		(at 265.43 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e740058e-94f0-476a-8d6e-d5f6f4d90eca")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 277.1465 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "USB_D-"
 		(shape bidirectional)
 		(at 265.43 83.82 0)
@@ -15243,6 +15399,17 @@
 		)
 		(uuid "1e043ac6-d2ef-4d20-979d-c0c1c9aff625")
 	)
+	(hierarchical_label "ADC1_INP17"
+		(shape input)
+		(at 269.24 58.42 0)
+		(effects
+			(font
+				(size 1.651 1.651)
+			)
+			(justify left)
+		)
+		(uuid "27135cf8-66cf-4b3f-9e90-824ff19286ef")
+	)
 	(hierarchical_label "ADC12_INP8"
 		(shape input)
 		(at 271.78 154.94 0)
@@ -15363,17 +15530,6 @@
 			(justify left)
 		)
 		(uuid "6a15b9b1-823c-42a2-ba6e-092435b62f53")
-	)
-	(hierarchical_label "ADC12_INP19"
-		(shape input)
-		(at 269.24 68.58 0)
-		(effects
-			(font
-				(size 1.651 1.651)
-			)
-			(justify left)
-		)
-		(uuid "73b1f315-9cd0-47be-9eb6-db5c3bf544cd")
 	)
 	(hierarchical_label "RX_UART_MC_R1"
 		(shape input)

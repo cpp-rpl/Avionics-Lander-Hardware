@@ -4,6 +4,10 @@
 	(generator_version "10.0")
 	(uuid "7795ce7a-d456-4fa5-b86a-75a229c2d679")
 	(paper "A4")
+	(title_block
+		(title "RPL-FlightComputerBoard-Rev1")
+		(rev "1")
+	)
 	(lib_symbols)
 	(text "ALL ADC CHANNEL 1 \n16 BIT AND FAST"
 		(exclude_from_sim no)
@@ -253,7 +257,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 144.78) (xy 115.57 119.38)
+			(xy 115.57 147.32) (xy 115.57 119.38)
 		)
 		(stroke
 			(width 0)
@@ -373,7 +377,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 148.59) (xy 119.38 148.59)
+			(xy 87.63 151.13) (xy 119.38 151.13)
 		)
 		(stroke
 			(width 0)
@@ -483,7 +487,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 140.97) (xy 111.76 140.97)
+			(xy 87.63 143.51) (xy 111.76 143.51)
 		)
 		(stroke
 			(width 0)
@@ -503,7 +507,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 152.4) (xy 123.19 119.38)
+			(xy 123.19 154.94) (xy 123.19 119.38)
 		)
 		(stroke
 			(width 0)
@@ -513,7 +517,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 148.59) (xy 119.38 119.38)
+			(xy 119.38 151.13) (xy 119.38 119.38)
 		)
 		(stroke
 			(width 0)
@@ -563,7 +567,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 144.78) (xy 115.57 144.78)
+			(xy 87.63 147.32) (xy 115.57 147.32)
 		)
 		(stroke
 			(width 0)
@@ -613,7 +617,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 152.4) (xy 123.19 152.4)
+			(xy 87.63 154.94) (xy 123.19 154.94)
 		)
 		(stroke
 			(width 0)
@@ -633,7 +637,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 140.97) (xy 111.76 119.38)
+			(xy 111.76 143.51) (xy 111.76 119.38)
 		)
 		(stroke
 			(width 0)
@@ -730,7 +734,7 @@
 			)
 		)
 		(pin "PT6" output
-			(at 87.63 140.97 0)
+			(at 87.63 143.51 0)
 			(uuid "d53293d6-8286-4c2c-933f-6ee127f891c5")
 			(effects
 				(font
@@ -740,7 +744,7 @@
 			)
 		)
 		(pin "PT7" output
-			(at 87.63 144.78 0)
+			(at 87.63 147.32 0)
 			(uuid "0549f2b0-062d-4f77-9912-65dca504b5f5")
 			(effects
 				(font
@@ -750,7 +754,7 @@
 			)
 		)
 		(pin "PT8" output
-			(at 87.63 148.59 0)
+			(at 87.63 151.13 0)
 			(uuid "be108638-da58-45b8-a13e-dced76ab17ca")
 			(effects
 				(font
@@ -760,7 +764,7 @@
 			)
 		)
 		(pin "PT9" output
-			(at 87.63 152.4 0)
+			(at 87.63 154.94 0)
 			(uuid "160892da-5029-403d-9b56-64d39abd311a")
 			(effects
 				(font
@@ -908,16 +912,6 @@
 		(pin "ADC12_INP15" input
 			(at 111.76 119.38 270)
 			(uuid "7492fbd2-dca9-4a8a-b0c8-87dfff762f31")
-			(effects
-				(font
-					(size 1.905 1.905)
-				)
-				(justify left)
-			)
-		)
-		(pin "ADC12_INP19" input
-			(at 115.57 119.38 270)
-			(uuid "8c03e4fe-0ce7-410d-88da-eaf8bc49c1b9")
 			(effects
 				(font
 					(size 1.905 1.905)
@@ -1143,6 +1137,16 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "ADC1_INP17" input
+			(at 115.57 119.38 270)
+			(uuid "939a8ba9-0451-436a-8c97-5bbe7829a967")
+			(effects
+				(font
+					(size 1.905 1.905)
+				)
+				(justify left)
 			)
 		)
 		(instances
