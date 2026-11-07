@@ -8875,6 +8875,16 @@
 	)
 	(wire
 		(pts
+			(xy 265.43 218.44) (xy 269.24 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16684323-d896-4eb3-af91-ca76b4033321")
+	)
+	(wire
+		(pts
 			(xy 139.7 43.18) (xy 127 43.18)
 		)
 		(stroke
@@ -10045,6 +10055,16 @@
 	)
 	(wire
 		(pts
+			(xy 265.43 55.88) (xy 267.97 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70c59f3d-e06f-4796-a95b-65339668bda4")
+	)
+	(wire
+		(pts
 			(xy 265.43 223.52) (xy 273.05 223.52)
 		)
 		(stroke
@@ -10302,6 +10322,16 @@
 			(type default)
 		)
 		(uuid "8bdd313c-1664-474f-979e-781ab6243289")
+	)
+	(wire
+		(pts
+			(xy 265.43 213.36) (xy 269.24 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c010391-a077-4a51-849b-a47ae46427a2")
 	)
 	(wire
 		(pts
@@ -10712,6 +10742,16 @@
 			(type default)
 		)
 		(uuid "aedcd992-1f4c-4b5d-966e-d21e66d835d8")
+	)
+	(wire
+		(pts
+			(xy 265.43 210.82) (xy 269.24 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0e0adfd-e2dd-4b33-82e2-9be471722b91")
 	)
 	(wire
 		(pts
@@ -15432,6 +15472,17 @@
 		)
 		(uuid "2bd06063-c761-479e-84ff-49d23f8b7e09")
 	)
+	(hierarchical_label "TIM5_CH1"
+		(shape output)
+		(at 267.97 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "373dcabf-6790-4053-94a8-686806f77a37")
+	)
 	(hierarchical_label "RX_UART_MC"
 		(shape input)
 		(at 267.97 81.28 0)
@@ -15530,6 +15581,17 @@
 			(justify left)
 		)
 		(uuid "6a15b9b1-823c-42a2-ba6e-092435b62f53")
+	)
+	(hierarchical_label "PD10"
+		(shape output)
+		(at 269.24 210.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "72f70d66-856a-450b-9f1e-83758cbcaccf")
 	)
 	(hierarchical_label "RX_UART_MC_R1"
 		(shape input)
@@ -15630,6 +15692,17 @@
 		)
 		(uuid "ae5705a6-5f49-46bf-a468-25542511853e")
 	)
+	(hierarchical_label "PD13"
+		(shape output)
+		(at 269.24 218.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ae857242-eb96-48d1-a4eb-351c533d13c3")
+	)
 	(hierarchical_label "TIM8_BKIN"
 		(shape output)
 		(at 187.96 88.9 180)
@@ -15673,6 +15746,17 @@
 			(justify left)
 		)
 		(uuid "cd0a40cc-0d4d-434b-b6a1-20c08933df7d")
+	)
+	(hierarchical_label "PD11"
+		(shape output)
+		(at 269.24 213.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d21859fa-1c6e-452d-a328-ae1c4c3afdf5")
 	)
 	(hierarchical_label "ADC2_INP6"
 		(shape input)
