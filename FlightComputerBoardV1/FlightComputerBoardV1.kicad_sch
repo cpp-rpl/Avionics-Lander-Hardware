@@ -1009,7 +1009,7 @@
 				(justify left)
 			)
 		)
-		(pin "RX_UART_MC_R2" input
+		(pin "RX_UART_MC_R2" output
 			(at 128.27 129.54 270)
 			(uuid "bdb9a4ab-f651-4cba-9bf5-36edf4aa33fd")
 			(effects
