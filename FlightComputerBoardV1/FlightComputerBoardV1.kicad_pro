@@ -521,8 +521,8 @@
     "meta": {
       "version": 5
     },
-    "net_colors": {},
-    "netclass_assignments": {},
+    "net_colors": null,
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -780,7 +780,7 @@
         "uuid": "7795ce7a-d456-4fa5-b86a-75a229c2d679"
       }
     ],
-    "used_designators": "#PWR1-108,#PWR114,#PWR125-223,C1-54,C76-116,CR1-4,D1-10,DM1,GP1,J1-18,J21-23,L1-2,M1-8,MOSFET1-4,P1,Q1-10,R1-80,R83-135,RAD1-2,RF1,RN1,SW1-2,TP17-25,U1-18,U21-26,U28-36,X1,Y1",
+    "used_designators": "#PWR1-108,#PWR114,#PWR125-223,D1-10,L1-2,C1-54,C76-119,DM1,GP1,CR1-4,J1-18,J21-23,M1-8,MOSFET1-4,P1,Q1-10,R1-80,R83-135,RAD1-2,RF1,RN1,SW1-2,TP17-25,U1-18,U21-26,U28-36,X1,Y1",
     "variants": []
   },
   "sheets": [

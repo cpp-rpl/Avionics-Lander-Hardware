@@ -3251,143 +3251,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "FlightComputerBoardV1_Symbols:ID10BT"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "AC"
-				(at -5.08 8.636 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "ID10BT_1_1"
-				(rectangle
-					(start -6.35 7.62)
-					(end 6.35 -8.89)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(text "ID10BT"
-					(at 3.556 8.636 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-							(color 132 0 0 1)
-						)
-					)
-				)
-				(pin input line
-					(at -8.89 3.81 0)
-					(length 2.54)
-					(name "+24V"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -8.89 0 0)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -8.89 -3.81 0)
-					(length 2.54)
-					(name "Feedback"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "LT4363IDE-2-PBF:LT4363IDE-2-PBF"
 			(pin_names
 				(offset 0.254)
@@ -7437,7 +7300,7 @@
 	)
 	(rectangle
 		(start 246.38 196.85)
-		(end 485.14 374.65)
+		(end 455.93 374.65)
 		(stroke
 			(width 0.508)
 			(type dash)
@@ -8716,16 +8579,8 @@
 		(uuid "358aa6b6-42d4-4d1b-9d76-49ea2b3b22e8")
 	)
 	(no_connect
-		(at 461.01 217.17)
-		(uuid "40ffe954-5ca4-4543-8332-d5bdf88fde51")
-	)
-	(no_connect
 		(at 358.14 344.17)
 		(uuid "4421c3ba-f749-457f-94c6-3c44773908b5")
-	)
-	(no_connect
-		(at 461.01 298.45)
-		(uuid "45895f1e-8a34-4ddf-9657-8d392bc29697")
 	)
 	(no_connect
 		(at 307.34 354.33)
@@ -8736,24 +8591,12 @@
 		(uuid "648d3366-3db3-47e7-85d7-aa5b67447cb1")
 	)
 	(no_connect
-		(at 461.01 220.98)
-		(uuid "6760c1c4-b626-45ce-942f-b7bec2084b6e")
-	)
-	(no_connect
 		(at 358.14 254)
 		(uuid "69e14a70-1017-415a-969e-fed27fa5c77b")
 	)
 	(no_connect
 		(at 383.54 455.93)
 		(uuid "6bc43c16-5c5b-41d7-b171-645b3dcf6b72")
-	)
-	(no_connect
-		(at 461.01 213.36)
-		(uuid "8c6f5614-02f4-4a53-8b42-4bfdb0fb60b8")
-	)
-	(no_connect
-		(at 461.01 306.07)
-		(uuid "916bbafb-32f2-42f4-bb9c-972928beedc3")
 	)
 	(no_connect
 		(at 339.09 135.89)
@@ -8786,10 +8629,6 @@
 	(no_connect
 		(at 358.14 339.09)
 		(uuid "ce0e669a-1145-4a0e-a8d7-f1531ec5e889")
-	)
-	(no_connect
-		(at 461.01 302.26)
-		(uuid "d4e71a10-90dd-47e8-bee8-69cb84cca0db")
 	)
 	(no_connect
 		(at 160.02 270.51)
@@ -9849,7 +9688,7 @@
 	)
 	(wire
 		(pts
-			(xy 375.92 248.92) (xy 379.73 248.92)
+			(xy 373.38 248.92) (xy 379.73 248.92)
 		)
 		(stroke
 			(width 0)
@@ -15399,7 +15238,7 @@
 	)
 	(wire
 		(pts
-			(xy 422.91 248.92) (xy 426.72 248.92)
+			(xy 420.37 248.92) (xy 426.72 248.92)
 		)
 		(stroke
 			(width 0)
@@ -32290,8 +32129,8 @@
 		)
 		(uuid "bad49e1a-d61c-4fac-a4a5-f80279babeff")
 	)
-	(label "SP"
-		(at 375.92 248.92 0)
+	(label "L1_SP"
+		(at 373.38 248.92 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -32347,7 +32186,7 @@
 		)
 		(uuid "deffad8a-7f1a-46ca-a1f9-0a556cd3e5ea")
 	)
-	(label "SP"
+	(label "L2_SP"
 		(at 349.25 336.55 0)
 		(effects
 			(font
@@ -32358,8 +32197,8 @@
 		)
 		(uuid "e3dd5115-fc7c-40b8-a706-f1aa2e8cc9ec")
 	)
-	(label "SP"
-		(at 422.91 248.92 0)
+	(label "L1_SP"
+		(at 420.37 248.92 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -32382,7 +32221,7 @@
 		)
 		(uuid "fc4b4556-02c9-4225-b6ac-867f761f70df")
 	)
-	(label "SP"
+	(label "L1_SP"
 		(at 349.25 251.46 0)
 		(effects
 			(font
@@ -40201,90 +40040,6 @@
 		)
 	)
 	(symbol
-		(lib_id "FlightComputerBoardV1_Symbols:ID10BT")
-		(at 469.9 302.26 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3c338953-9e2c-48bd-9343-45800bb12a77")
-		(property "Reference" "AC2"
-			(at 477.52 301.8761 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" ""
-			(at 469.9 302.26 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
-			(at 469.9 302.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 469.9 302.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 469.9 302.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "5a407f70-01e8-4ad9-95ba-cfe9ee224ed9")
-		)
-		(pin "1"
-			(uuid "ca0b6481-bd55-449a-8708-36b8a4a018ac")
-		)
-		(pin "3"
-			(uuid "f13af9de-ae01-42a6-8393-543b990b82d9")
-		)
-		(instances
-			(project "FlightComputerBoardV1"
-				(path "/7795ce7a-d456-4fa5-b86a-75a229c2d679/3649f41a-e3eb-4228-8a3a-5b23b97352ea"
-					(reference "AC2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:Earth")
 		(at 408.94 252.73 0)
 		(unit 1)
@@ -41822,90 +41577,6 @@
 			(project "FlightComputerBoardV1"
 				(path "/7795ce7a-d456-4fa5-b86a-75a229c2d679/3649f41a-e3eb-4228-8a3a-5b23b97352ea"
 					(reference "#PWR0173")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "FlightComputerBoardV1_Symbols:ID10BT")
-		(at 469.9 217.17 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6262948f-5828-472e-bdcd-74cc05605d90")
-		(property "Reference" "AC1"
-			(at 477.52 216.7861 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" ""
-			(at 469.9 217.17 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
-			(at 469.9 217.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 469.9 217.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 469.9 217.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "510614f9-7f5e-4ba7-90d1-fe8e54699932")
-		)
-		(pin "1"
-			(uuid "9e2c16a8-4db9-4edb-a9da-bc00f427f239")
-		)
-		(pin "3"
-			(uuid "256d7130-21c0-44fc-8c38-7bc6325e267d")
-		)
-		(instances
-			(project "FlightComputerBoardV1"
-				(path "/7795ce7a-d456-4fa5-b86a-75a229c2d679/3649f41a-e3eb-4228-8a3a-5b23b97352ea"
-					(reference "AC1")
 					(unit 1)
 				)
 			)
@@ -46713,7 +46384,7 @@
 				)
 			)
 		)
-		(property "Description" "Shunt resistor with Kelvin connections"
+		(property "Description" "WSLP25125L000FEA"
 			(at 360.68 256.54 0)
 			(hide yes)
 			(show_name no)
@@ -53259,7 +52930,7 @@
 				)
 			)
 		)
-		(property "Description" "Shunt resistor with Kelvin connections"
+		(property "Description" "WSLP25125L000FEA"
 			(at 360.68 341.63 0)
 			(hide yes)
 			(show_name no)
